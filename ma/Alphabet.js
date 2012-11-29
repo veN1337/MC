@@ -1,0 +1,18 @@
+var a = [{"Frage":"Was ist e?","Antwort":"Die eulersche Zahl. Sie ist Basis der Exponentialfunktion und des natürlichen Logarithmus.","Kurz":"eulersche Zahl. ca. 2,718281828459...","Befehl":"","Bild":"","FalscheAntwort":[4,5,9],"Tag":""},
+{"Frage":"Was ist Sigma?","Antwort":"Das große griechische Sigma wird oft verwendet, um Folgen von Zahlen zu addieren, und auch Summenzeichen genannt.","Kurz":"eine Summe","Befehl":"","Bild":"","FalscheAntwort":["","",""],"Tag":""},
+{"Frage":"Was ist Gamma?","Antwort":"","Kurz":"","Befehl":"","Bild":"","FalscheAntwort":["","",""],"Tag":""},
+{"Frage":"Was ist Pi?","Antwort":"","Kurz":"","Befehl":"","Bild":"","FalscheAntwort":["","",""],"Tag":""},
+{"Frage":"Was ist Phi?","Antwort":"","Kurz":"","Befehl":"","Bild":"","FalscheAntwort":["","",""],"Tag":""},
+{"Frage":"Was ist Zeta?","Antwort":"","Kurz":"","Befehl":"","Bild":"","FalscheAntwort":["","",""],"Tag":""},
+{"Frage":"Was ist Alpha?","Antwort":"","Kurz":"","Befehl":"","Bild":"","FalscheAntwort":["","",""],"Tag":""},
+{"Frage":"Was ist Beta?","Antwort":"","Kurz":"","Befehl":"","Bild":"","FalscheAntwort":["","",""],"Tag":""},
+{"Frage":"Was ist Delta?","Antwort":"","Kurz":"","Befehl":"","Bild":"","FalscheAntwort":["","",""],"Tag":""},
+{"Frage":"Was ist Theta?","Antwort":"","Kurz":"","Befehl":"","Bild":"","FalscheAntwort":["","",""],"Tag":""},
+{"Frage":"Was ist Kappa?","Antwort":"","Kurz":"","Befehl":"","Bild":"","FalscheAntwort":["","",""],"Tag":""},
+{"Frage":"Was ist Lambda?","Antwort":"","Kurz":"","Befehl":"","Bild":"","FalscheAntwort":["","",""],"Tag":""},
+{"Frage":"Was ist My?","Antwort":"","Kurz":"","Befehl":"","Bild":"","FalscheAntwort":["","",""],"Tag":""},
+{"Frage":"Was ist Xi?","Antwort":"","Kurz":"","Befehl":"","Bild":"","FalscheAntwort":["","",""],"Tag":""},
+{"Frage":"Was ist Omega?","Antwort":"","Kurz":"","Befehl":"","Bild":"","FalscheAntwort":["","",""],"Tag":""},
+{"Frage":"Was ist Rho?","Antwort":"","Kurz":"","Befehl":"","Bild":"","FalscheAntwort":["","",""],"Tag":""},
+{"Frage":"Was ist Epsilon?","Antwort":"","Kurz":"","Befehl":"","Bild":"","FalscheAntwort":["","",""],"Tag":""}
+]

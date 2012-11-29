@@ -1,0 +1,18 @@
+var a = [{"Frage":"Was ist ein Kapitalumlageverfahren?","Antwort":"Verfahren der deutschen Rentenversicherung zur Finanzierung der aktuellen Rentner durch derzeitige Arbeitnehmer"},
+{"Frage":"Was ist ein Kapitaldeckungsverfahren?","Antwort":"Verfahren der Rentenversicherung zur Finanzierung der Rentner. Derzeitiger Arbeitnehmer zahlt R&uuml;cklagen ein und wird sp&auml;ter dadurch finanziert."},
+{"Frage":"Was ist der Generationenvertrag?","Antwort":"Der heutige Arbeitnehmer zahlt f&uuml;r die aktuellen Rentner!"},
+{"Frage":"Was ist die Problematik des Generationenvertrags?","Antwort":"Demographischer Wandel: &uuml;beralterung der Bev&ouml;lkerung und daher drohende Altersarmut"},
+{"Frage":"Was ist die aktuelle H&ouml;he der Abgabe zur Rentenversicherung?","Antwort":"ca. 19,6%"},
+{"Frage":"Was ist die Riesterrente?","Antwort":"Staatliche F&ouml;rderung zur Anlage in eigenen Renten / Kapitaldeckungsverfahren"},
+{"Frage":"Welche Modelle der Krankenversicherung gibt es?","Antwort":"Gesetzliche Krankenversicherung, private Krankenversicherung"},
+{"Frage":"F&uuml;r was steht die Beitragsbemessungsgrenze?","Antwort":"Bis zu welchem Einkommen der Beitragssatz zur Krankenversicherung berechnet wird."},
+{"Frage":"Wie hoch ist ca. der Beitragssatze zur gesetzl. KKV?","Antwort":"ca. 15,5% bei 8,2% Arbeitnehmeranteil"},
+{"Frage":"Welche Steuern ( Einzelunternehmen ) gibt es?","Antwort":"Einkommens,Gewerbe,Umsatz"},
+{"Frage":"Was ist die Einkommenssteuer?","Antwort":""},
+{"Frage":"Was ist die Umsatzsteuer?","Antwort":""},
+{"Frage":"Was ist die Gewerbesteuer?","Antwort":""},
+{"Frage":"Wie berechnet sich die Einkommenssteuer?","Antwort":"&uuml;ber dem Existenzminimum ( 8008 € p.a. ) Danach 15% bis 42% repsektive 45% mit Reichensteuer"},
+{"Frage":"Was sind Werbungskosten?","Antwort":"Alle Kosten, die zur Eigenwerbung oder zur eigenen Arbeit dienen. Auch Fahrtkosten, Fortbildungen oder Rechner"},
+{"Frage":"Was ist die Einnahmen-&uuml;berschussrechnung?","Antwort":"Eine einfache Berechnung bei dem die laufenden Kosten vom Umsatz abgezogen werden.","Stichwort":"Umsatz-laufende Kosten"},
+{"Frage":"Wann muss man Umsatzsteuer zahlen?","Antwort":"Im laufenden Jahr bis 17.500€\nIm vergagngenen Jahr bis 50.000€"}
+]
